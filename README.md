@@ -38,15 +38,14 @@ Construindo aplicações e APIs com **Node.js** e **TypeScript**.
 
 <div>
   <img
-    height="195"
+    height="160"
     src="https://github-readme-stats.vercel.app/api?username=elvisondev&show_icons=true&theme=tokyonight&locale=pt-br"
   />
   <img
-    height="195"
+    height="160"
     src="https://streak-stats.demolab.com?user=elvisondev&theme=tokyonight&locale=pt_BR"
   />
 </div>
-
 ---
 
 ## 📫 Contato
