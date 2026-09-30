@@ -1,39 +1,60 @@
-# Olá! Meu nome é Elvison 👋
+<img
+  align="right"
+  width="230"
+  src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZzFwaDBiZDV6ZG1jZW5tYTU1dDRoaG9mMGp4dGV0NXBmNW0zcnFxZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"
+/>
 
-- 👨‍💻 Aspirante a **Back-end Developer**
+# Olá, eu sou Elvison 👋 💻
+
+### Backend Developer em formação
+
+Construindo aplicações e APIs com **Node.js** e **TypeScript**.
+
+## 👨‍💻 Sobre mim
+
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 📚 Atualmente estudando **Node.js | JavaScript | TypeScript**
-- 🚀 Focado em desenvolvimento **Back-end**
+- 💻 Focado em **desenvolvimento Back-end**
+- 🚀 Construindo **APIs REST**
+- 📚 Estudando **Node.js, JavaScript e TypeScript**
+
+<br clear="right"/>
 
 ---
 
-## 💻 Tecnologias em estudo
+## 🛠️ Tecnologias e ferramentas
 
 <div>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="32" />
+  <img src="https://skillicons.dev/icons?i=js" width="32" />
+  <img src="https://skillicons.dev/icons?i=ts" width="32" />
+  <img src="https://skillicons.dev/icons?i=git" width="32" />
+  <img src="https://skillicons.dev/icons?i=github" width="32" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="32" />
 </div>
 
 ---
 
+## 📊 GitHub
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fpelvison&theme=tokyonight&locale=pt_BR" alt="GitHub Streak"/>
+<div>
+  <img
+    height="195"
+    src="https://github-readme-stats.vercel.app/api?username=elvisondev&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+  <img
+    height="195"
+    src="https://streak-stats.demolab.com?user=elvisondev&theme=tokyonight&locale=pt_BR"
+  />
 </div>
 
 ---
 
 ## 📫 Contato
 
-<div>
-  <a href="mailto:gtellviison@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
+<a href="mailto:fpelvison@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  <a href="https://www.linkedin.com/in/fpelvison/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/fpelvison/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
